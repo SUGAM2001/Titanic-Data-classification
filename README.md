@@ -1,6 +1,4 @@
-# BharatIntern-DataScience-Internship
-
-# Titanic-Classification-Task-1
+# Titanic-Classification
 
 # Description About The Dataset
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
